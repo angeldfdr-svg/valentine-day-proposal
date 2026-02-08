@@ -12,7 +12,7 @@ const questions = [
   { text: "Se eu estivesse aí agora, aceitavas um abraço?" },
   { text: "Diz a verdade… gostas da ideia de 'nós'?" },
   { text: "Sem pensar muito… gostas de mim?" },
-  { text: "Se eu tentar clicar no 'Não', isso faz-te sorrir?" },
+  { text: "Andas tentando clicar no 'não', né?" },
   { text: "Então… queres namorar comigo?" }
 ];
 

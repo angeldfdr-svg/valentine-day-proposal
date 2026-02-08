@@ -2,7 +2,6 @@
   "name": "sitio-san-valentin",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://angeldfdr-svg.github.io/valentine-day-proposal",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
