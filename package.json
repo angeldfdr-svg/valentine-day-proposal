@@ -2,15 +2,19 @@
   "name": "sitio-san-valentin",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://angeldfdr-svg.github.io/valentine-day-proposal",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
-    "canvas-confetti": "^1.9.4"
+    "canvas-confetti": "^1.9.4",
+    "gh-pages": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [">0.2%", "not dead", "not op_mini all"],

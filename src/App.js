@@ -12,6 +12,7 @@ const questions = [
   { text: "Se eu estivesse aí agora, aceitavas um abraço?" },
   { text: "Diz a verdade… gostas da ideia de 'nós'?" },
   { text: "Sem pensar muito… gostas de mim?" },
+  { text: "Se eu tentar clicar no 'Não', isso faz-te sorrir?" },
   { text: "Então… queres namorar comigo?" }
 ];
 
@@ -22,6 +23,7 @@ const backgroundColors = [
   "linear-gradient(135deg, #fb5607, #ff006e)",
   "linear-gradient(135deg, #ffbe0b, #ff8c00)",
   "linear-gradient(135deg, #06ffa5, #00d98e)",
+  "linear-gradient(135deg, #ff9aa2, #ff758f)",
   "linear-gradient(135deg, #ff006e, #8338ec)",
   "linear-gradient(135deg, #ff4d8c, #3a86ff)"
 ];
