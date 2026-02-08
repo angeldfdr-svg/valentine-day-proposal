@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/valentine-day-proposal/static/css/main.f863e44e.css",
-    "main.js": "/valentine-day-proposal/static/js/main.f64fd490.js",
-    "index.html": "/valentine-day-proposal/index.html",
-    "main.f863e44e.css.map": "/valentine-day-proposal/static/css/main.f863e44e.css.map",
-    "main.f64fd490.js.map": "/valentine-day-proposal/static/js/main.f64fd490.js.map"
+    "main.css": "/static/css/main.f863e44e.css",
+    "main.js": "/static/js/main.1f778f7c.js",
+    "index.html": "/index.html",
+    "main.f863e44e.css.map": "/static/css/main.f863e44e.css.map",
+    "main.1f778f7c.js.map": "/static/js/main.1f778f7c.js.map"
   },
   "entrypoints": [
     "static/css/main.f863e44e.css",
-    "static/js/main.f64fd490.js"
+    "static/js/main.1f778f7c.js"
   ]
 }
